@@ -8,6 +8,8 @@
     "@testing-library/user-event": "^7.1.2",
     "eventsource": "^2.0.2",
     "materialize-css": "^1.0.0",
+    "minimist": "^1.2.6",
+    "mkdirp": "0.5.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
